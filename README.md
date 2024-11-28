@@ -1,4 +1,4 @@
-# internlm-note
+# llm
 
 浦语书生大模型训练营项目笔记。
 
